@@ -1,0 +1,34 @@
+footer {
+    background-color: darkgray;
+    color: white;
+}
+
+body {
+    background-color: white;
+    font-family: karla;
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: pacifico;
+    font-size: 100px;
+    color: gray;
+}
+
+h3, h4 {
+    font-family: pacifico;
+    color: gray;
+}
+
+a {
+    color: orange
+    }
+
+div {
+    background: url(file:///Users/toms/Desktop/toms-html-css-project/images/kayak-bkgd.jpg)
+}
