@@ -1,5 +1,5 @@
 footer {
-    background-color: black;
+    background-color: darkgray;
     color: white;
 }
 
@@ -10,25 +10,40 @@ body {
 }
 
 header {
+    margin: 0;
+    padding: 0;
     background-color: black;
     color: white;
 }
 
 h1 {
     font-family: pacifico;
-    font-size: 80px;
-    color: gray;
+    font-size: 100px;
 }
 
-h3, h4 {
+h4 {
+    font-family: pacifico;
+    color: white;
+}
+
+h3 {
     font-family: pacifico;
     color: gray;
 }
 
 a {
     color: orange
-    }
+}
 
-div {
-    background: url(file:///Users/toms/Desktop/toms-html-css-project/images/kayak-bkgd.jpg)
+section {
+    margin: 0;
+    background: url(file:///Users/toms/Desktop/toms-html-css-project/images/kayak-bkgd.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+button {
+    background-color: tomato;
+    color: white;
 }
